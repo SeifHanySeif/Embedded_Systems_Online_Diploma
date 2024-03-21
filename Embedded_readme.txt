@@ -1,0 +1,1 @@
+Hello Embdded diploma text file 
